@@ -1,0 +1,17 @@
+{
+    "name": "itracks/backend0",
+    "description": "db class",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Itracks\\Backend0\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "omniaAshrafEldeeb",
+            "email": "rannarroto@gmail.com"
+        }
+    ],
+    "require": {}
+}
